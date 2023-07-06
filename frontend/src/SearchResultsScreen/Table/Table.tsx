@@ -28,7 +28,7 @@ export default function Table({
       setSortOrder("asc");
     }
     setSortedColumn(column);
-  };
+  }
 
   /**
    * Сортировка данных в таблице.
